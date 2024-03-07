@@ -1,6 +1,6 @@
 # Personal Portfolio Figma Prototype
 
-This repository contains the Figma prototype for my personal portfolio website. The prototype is designed to showcase my skills, projects, and experiences in a visually appealing and user-friendly manner. The provided provided sample is a pdf file. However, if you would like to check it out the link below will give you access to the original one. 
+This repository contains the Figma prototype for my personal portfolio website. The prototype is designed to showcase my skills, projects, and experiences in a visually appealing and user-friendly manner. The provided provided sample is a pdf file. However, if you would like to se the high.fidelity prototype then you can check it out using the link below will.
 
 # Link
 https://www.figma.com/file/rrFVYAdT3wZ3Z09MFxW8jC/Untitled?type=design&node-id=0%3A1&mode=design&t=kFHtSkB8VgCxxslM-1
